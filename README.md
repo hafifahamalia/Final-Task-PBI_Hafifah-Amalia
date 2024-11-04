@@ -17,7 +17,7 @@ Dalam repository ini terdapat dua file utama:
 
 ## Kebutuhan
 - SQL Database (MySQL, PostgreSQL, dsb.) untuk menjalankan query.
-- Alat analisis data seperti Excel, Google Sheets, atau alat visualisasi untuk memproses file CSV.
+- Alat analisis data seperti Excel, Google Sheets, looker studio untuk memproses file CSV.
 
 ## Lisensi
 Repository ini tidak memiliki lisensi tertentu. Penggunaan data dan kode bertujuan untuk pembelajaran dan analisis.
