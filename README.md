@@ -23,4 +23,4 @@ Dalam repository ini terdapat dua file utama:
 Repository ini tidak memiliki lisensi tertentu. Penggunaan data dan kode bertujuan untuk pembelajaran dan analisis.
 
 ## Kontak
-Jika memiliki pertanyaan atau saran, silakan hubungi [Hafifah Amalia] di [hafifahaml@gmail.com].
+Jika memiliki pertanyaan atau saran, silakan hubungi Hafifah Amalia di [hafifahaml@gmail.com].
